@@ -1,0 +1,28 @@
+.browseSection{
+    margin-top: 10%;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1500px; */
+}
+
+.browseWrapper {
+    margin-left: 5%;
+}
+
+.browse {
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.browseContent {
+    align-items: center;
+    margin-left: 38%;
+    color: white;
+}
+
+.browse__avatar {
+    width: 150px;
+    margin-left: 5%;
+    margin-top: 3%;
+}

@@ -1,0 +1,70 @@
+.subscriptionPage {
+    margin-top: 8%;
+    margin-bottom: 20%;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscription__Details {
+    margin-left: 5%;
+    color: white;
+}
+
+.subscription__wrapper {
+    margin-left: 5%;
+}
+
+.subscription__plans {
+    margin-bottom: 10%;
+    align-items: center;
+}
+/* 
+.subscription_planDetails {
+    margin-left: 5%;
+} */
+
+.subscription__plan {
+    margin-top: 9%;
+    margin-left: 5%;
+    color: white;
+    line-height: 4rem;
+}
+
+.theme-color {
+    color: #f40612;
+}
+
+.subscription__plan1 {
+    margin-top: -1%;
+    color: white;
+    line-height: 4rem;
+}
+
+.subscription__button {
+    background-color: #e50914;
+    width:40%;
+    margin-top: 2%;
+    align-items: center;
+    /* margin-left: 28%; */
+    height: 60px;
+    display: block;
+    color: white;
+    border: 0;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.submission {
+    margin-bottom: -20%;
+    margin-top: 2%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .submission > p {
+    margin-left: -5%;
+} */
